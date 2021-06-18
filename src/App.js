@@ -3,6 +3,7 @@ import './App.css';
 import ResultComponent from './components/ResultComponent';
 import KeyPadComponent from "./components/KeyPadComponent";
 //first edit
+//developer1 edit
 
 class App extends Component {
     constructor(){
